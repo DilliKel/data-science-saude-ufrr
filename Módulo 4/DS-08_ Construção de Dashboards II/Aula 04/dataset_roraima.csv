@@ -1,0 +1,201 @@
+Data de Nascimento,Sexo,CPF,Município,Estado,Doenças Preexistentes,Alergias,Histórico de Hábitos de Vida,Diagnósticos,Data da Consulta,Exames,Medicações Prescritas,Procedimentos de Enfermagem,Data e Horário de Admissão,Data e Horário de Alta,Data e Horário de Readmissão,Índice de Satisfação,Ocupação de Leito,Ocupação da Enfermaria,Óbito
+1948-04-30,M,128.603.745-07,Normandia,RR,Hipertensão,Nenhuma,Sedentário,Gripe,2024-04-14,Hemograma,Ibuprofeno,Oxigenoterapia,2024-04-13,2024-04-14,2024-04-14,0,Não,Enfermaria 4,Sim
+1971-09-27,F,714.650.389-57,Amajari,RR,Hipertensão,Penicilina,Sedentário,Alergia,2024-04-16,Tomografia,Metformina,Coleta de sangue,2024-04-11,2024-04-12,2024-04-12,1,Sim,Enfermaria 1,Sim
+1957-06-09,F,695.203.147-25,Amajari,RR,Doença cardíaca,Polen,Moderadamente ativo,Infecção urinária,2024-08-16,Hemograma,Paracetamol,Oxigenoterapia,2024-08-11,2024-08-15,2024-08-21,0,Não,Enfermaria 3,Não
+1961-08-13,M,248.530.791-14,Mucajaí,RR,Nenhuma,Polen,Sedentário,Gripe,2024-05-31,Eletrocardiograma,Insulina,Coleta de sangue,2024-05-29,2024-06-02,2024-06-08,4,Não,Enfermaria 3,Sim
+1972-07-23,F,196.582.470-67,Iracema,RR,Doença cardíaca,Lactose,Moderadamente ativo,Infecção urinária,2024-01-19,Urocultura,Ibuprofeno,Monitoramento de glicose,2024-01-14,2024-01-16,2024-01-17,3,Não,Enfermaria 3,Não
+1992-04-25,F,908.743.621-13,Normandia,RR,Câncer,Penicilina,Moderadamente ativo,Covid-19,2024-04-22,Eletrocardiograma,Insulina,Coleta de sangue,2024-04-18,2024-04-19,2024-04-19,2,Sim,Enfermaria 2,Sim
+1971-05-22,F,286.107.439-69,Cantá,RR,Hipertensão,Polen,Sedentário,Infecção urinária,2024-02-27,Hemograma,Paracetamol,Oxigenoterapia,2024-02-23,2024-02-27,2024-02-27,5,Sim,Enfermaria 3,Não
+1960-01-27,F,928.135.704-60,Boa Vista,RR,Nenhuma,Penicilina,Sedentário,Bronquite,2024-06-07,Tomografia,Paracetamol,Coleta de sangue,2024-06-02,2024-06-03,2024-06-03,5,Não,Enfermaria 1,Não
+1971-06-19,F,391.506.482-33,Boa Vista,RR,Doença cardíaca,Penicilina,Moderadamente ativo,Gripe,2024-09-05,Eletrocardiograma,Metformina,Coleta de sangue,2024-09-02,2024-09-07,2024-09-07,3,Sim,Enfermaria 2,Sim
+2002-04-21,F,539.018.267-77,Mucajaí,RR,Doença cardíaca,Penicilina,Sedentário,Gripe,2024-10-16,Raio-X,Metformina,Coleta de sangue,2024-10-15,2024-10-20,2024-10-26,5,Não,Enfermaria 1,Sim
+1971-07-18,F,973.485.016-48,Caracaraí,RR,Asma,Nenhuma,Sedentário,Infecção urinária,2024-09-27,Tomografia,Metformina,Coleta de sangue,2024-09-22,2024-09-24,2024-09-25,4,Sim,Enfermaria 2,Não
+1947-02-18,M,370.491.628-50,Mucajaí,RR,Hipertensão,Nenhuma,Moderadamente ativo,Bronquite,2024-04-25,Tomografia,Salbutamol,Monitoramento de glicose,2024-04-22,2024-04-27,2024-04-27,0,Não,Enfermaria 4,Sim
+1956-10-04,M,153.089.246-51,Caroebe,RR,Câncer,Glúten,Moderadamente ativo,Covid-19,2024-05-30,Hemograma,Ibuprofeno,Oxigenoterapia,2024-05-28,2024-06-02,2024-06-02,3,Sim,Enfermaria 5,Sim
+1948-04-22,M,278.051.634-80,Iracema,RR,Diabetes,Nenhuma,Moderadamente ativo,Covid-19,2024-09-05,Raio-X,Insulina,Coleta de sangue,2024-09-01,2024-09-02,2024-09-06,3,Não,Enfermaria 2,Não
+1973-07-14,F,189.042.675-01,Amajari,RR,Asma,Nenhuma,Sedentário,Covid-19,2024-09-05,Eletrocardiograma,Metformina,Coleta de sangue,2024-09-01,2024-09-05,2024-09-05,3,Sim,Enfermaria 2,Sim
+1955-10-21,M,214.359.608-15,Boa Vista,RR,Hipertensão,Polen,Moderadamente ativo,Gripe,2024-07-02,Tomografia,Ibuprofeno,Oxigenoterapia,2024-06-28,2024-07-02,2024-07-02,5,Não,Enfermaria 3,Não
+1971-09-26,F,259.076.384-00,Alto Alegre,RR,Hipertensão,Penicilina,Moderadamente ativo,Infecção urinária,2024-08-09,Tomografia,Paracetamol,Coleta de sangue,2024-08-05,2024-08-08,2024-08-08,5,Sim,Enfermaria 2,Não
+1996-10-15,F,129.638.045-98,Normandia,RR,Asma,Lactose,Ativo,Covid-19,2024-04-01,Eletrocardiograma,Ibuprofeno,Monitoramento de glicose,2024-03-29,2024-03-30,2024-03-30,5,Sim,Enfermaria 5,Não
+1954-01-01,M,934.827.150-41,Bonfim,RR,Hipertensão,Nenhuma,Sedentário,Bronquite,2024-07-13,Eletrocardiograma,Metformina,Oxigenoterapia,2024-07-08,2024-07-13,2024-07-18,3,Não,Enfermaria 5,Não
+1982-09-08,F,492.316.875-73,Iracema,RR,Diabetes,Glúten,Ativo,Gripe,2024-08-30,Eletrocardiograma,Salbutamol,Oxigenoterapia,2024-08-28,2024-09-01,2024-09-01,0,Sim,Enfermaria 1,Não
+1950-09-03,M,847.210.695-02,Alto Alegre,RR,Nenhuma,Polen,Moderadamente ativo,Infecção urinária,2024-06-06,Tomografia,Ibuprofeno,Coleta de sangue,2024-06-03,2024-06-05,2024-06-11,5,Sim,Enfermaria 3,Sim
+1984-06-23,F,436.172.589-64,Pacaraima,RR,Doença cardíaca,Nenhuma,Ativo,Gripe,2024-08-04,Raio-X,Paracetamol,Monitoramento de glicose,2024-08-01,2024-08-05,2024-08-05,4,Sim,Enfermaria 3,Não
+1988-08-24,F,237.549.016-99,Amajari,RR,Câncer,Penicilina,Moderadamente ativo,Bronquite,2024-05-12,Hemograma,Insulina,Monitoramento de glicose,2024-05-08,2024-05-09,2024-05-09,1,Não,Enfermaria 5,Não
+1968-04-25,F,963.108.452-33,São Luiz,RR,Asma,Nenhuma,Sedentário,Infecção urinária,2024-06-27,Eletrocardiograma,Paracetamol,Oxigenoterapia,2024-06-25,2024-06-27,2024-06-27,1,Não,Enfermaria 3,Sim
+1988-06-19,F,728.964.310-04,Pacaraima,RR,Hipertensão,Nenhuma,Ativo,Covid-19,2024-09-19,Urocultura,Insulina,Oxigenoterapia,2024-09-15,2024-09-19,2024-09-19,5,Sim,Enfermaria 1,Não
+1970-06-01,M,346.728.091-96,São Luiz,RR,Diabetes,Nenhuma,Sedentário,Infecção urinária,2024-07-12,Eletrocardiograma,Insulina,Oxigenoterapia,2024-07-09,2024-07-13,2024-07-23,1,Não,Enfermaria 1,Não
+1976-12-12,F,051.948.637-48,Uiramutã,RR,Asma,Glúten,Moderadamente ativo,Alergia,2024-07-06,Hemograma,Ibuprofeno,Monitoramento de glicose,2024-07-04,2024-07-06,2024-07-06,4,Não,Enfermaria 1,Não
+1966-06-02,M,276.408.315-71,Cantá,RR,Nenhuma,Lactose,Sedentário,Covid-19,2024-08-08,Tomografia,Ibuprofeno,Coleta de sangue,2024-08-04,2024-08-08,2024-08-17,3,Não,Enfermaria 3,Não
+1971-03-29,F,024.865.917-02,Pacaraima,RR,Hipertensão,Glúten,Ativo,Covid-19,2024-01-28,Tomografia,Metformina,Oxigenoterapia,2024-01-25,2024-01-27,2024-01-27,2,Não,Enfermaria 1,Sim
+1992-12-12,F,236.495.718-46,Normandia,RR,Nenhuma,Lactose,Moderadamente ativo,Covid-19,2024-06-16,Tomografia,Ibuprofeno,Monitoramento de glicose,2024-06-15,2024-06-17,2024-06-25,4,Não,Enfermaria 1,Sim
+1982-07-28,F,165.372.940-61,Pacaraima,RR,Nenhuma,Lactose,Ativo,Alergia,2024-06-04,Hemograma,Ibuprofeno,Coleta de sangue,2024-06-01,2024-06-05,2024-06-05,5,Não,Enfermaria 5,Não
+1989-05-30,F,726.951.843-28,Amajari,RR,Doença cardíaca,Glúten,Ativo,Gripe,2024-06-14,Eletrocardiograma,Metformina,Oxigenoterapia,2024-06-11,2024-06-16,2024-06-22,4,Sim,Enfermaria 4,Sim
+1969-01-09,F,540.819.762-01,São Luiz,RR,Câncer,Lactose,Moderadamente ativo,Gripe,2024-01-14,Raio-X,Metformina,Oxigenoterapia,2024-01-13,2024-01-18,2024-01-28,2,Não,Enfermaria 1,Não
+1984-06-08,M,058.479.312-04,São João da Baliza,RR,Câncer,Nenhuma,Moderadamente ativo,Gripe,2024-04-06,Tomografia,Salbutamol,Oxigenoterapia,2024-04-05,2024-04-09,2024-04-09,0,Sim,Enfermaria 5,Não
+1994-11-27,F,129.804.657-20,Rorainópolis,RR,Câncer,Nenhuma,Sedentário,Gripe,2024-01-18,Eletrocardiograma,Ibuprofeno,Oxigenoterapia,2024-01-16,2024-01-21,2024-01-26,0,Sim,Enfermaria 5,Não
+1973-11-20,M,491.526.803-98,Boa Vista,RR,Doença cardíaca,Nenhuma,Ativo,Bronquite,2024-05-26,Hemograma,Metformina,Coleta de sangue,2024-05-22,2024-05-25,2024-06-02,4,Sim,Enfermaria 1,Não
+1970-01-19,M,459.681.302-70,Uiramutã,RR,Câncer,Penicilina,Moderadamente ativo,Bronquite,2024-05-07,Eletrocardiograma,Ibuprofeno,Oxigenoterapia,2024-05-02,2024-05-03,2024-05-07,0,Não,Enfermaria 3,Não
+1944-01-01,F,823.794.165-91,Mucajaí,RR,Asma,Glúten,Ativo,Alergia,2024-08-18,Tomografia,Ibuprofeno,Coleta de sangue,2024-08-17,2024-08-22,2024-08-26,0,Não,Enfermaria 4,Sim
+1994-06-23,M,827.406.135-71,Rorainópolis,RR,Asma,Polen,Sedentário,Covid-19,2024-02-04,Tomografia,Salbutamol,Monitoramento de glicose,2024-02-02,2024-02-04,2024-02-07,3,Não,Enfermaria 1,Sim
+1977-02-16,M,186.359.042-06,Bonfim,RR,Diabetes,Nenhuma,Sedentário,Covid-19,2024-04-22,Eletrocardiograma,Insulina,Monitoramento de glicose,2024-04-21,2024-04-23,2024-04-23,1,Não,Enfermaria 3,Sim
+1957-03-11,F,913.764.802-04,Caracaraí,RR,Nenhuma,Nenhuma,Ativo,Covid-19,2024-07-26,Eletrocardiograma,Insulina,Oxigenoterapia,2024-07-25,2024-07-28,2024-08-06,0,Não,Enfermaria 1,Sim
+1996-05-29,F,192.076.485-20,Cantá,RR,Doença cardíaca,Polen,Ativo,Covid-19,2024-09-20,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-09-19,2024-09-24,2024-09-24,1,Sim,Enfermaria 2,Não
+1990-02-24,M,874.901.623-78,Rorainópolis,RR,Diabetes,Penicilina,Moderadamente ativo,Covid-19,2024-04-25,Raio-X,Insulina,Monitoramento de glicose,2024-04-20,2024-04-21,2024-04-25,4,Não,Enfermaria 4,Sim
+1998-07-05,M,956.732.481-64,Uiramutã,RR,Câncer,Penicilina,Ativo,Infecção urinária,2024-05-08,Eletrocardiograma,Insulina,Monitoramento de glicose,2024-05-06,2024-05-09,2024-05-09,3,Sim,Enfermaria 2,Não
+1955-11-07,F,078.643.915-75,Iracema,RR,Hipertensão,Polen,Moderadamente ativo,Bronquite,2024-02-17,Tomografia,Insulina,Monitoramento de glicose,2024-02-16,2024-02-20,2024-02-29,2,Não,Enfermaria 2,Sim
+1980-08-09,M,167.493.802-04,Rorainópolis,RR,Asma,Glúten,Moderadamente ativo,Bronquite,2024-02-10,Hemograma,Insulina,Coleta de sangue,2024-02-06,2024-02-10,2024-02-10,4,Não,Enfermaria 4,Não
+1953-04-16,M,529.780.134-60,Boa Vista,RR,Hipertensão,Penicilina,Ativo,Gripe,2024-09-14,Urocultura,Paracetamol,Coleta de sangue,2024-09-13,2024-09-18,2024-09-18,1,Não,Enfermaria 4,Não
+1955-05-07,F,645.780.392-00,São João da Baliza,RR,Asma,Nenhuma,Sedentário,Gripe,2024-08-20,Hemograma,Paracetamol,Monitoramento de glicose,2024-08-17,2024-08-21,2024-08-25,2,Não,Enfermaria 1,Sim
+1946-05-29,F,036.871.952-95,Normandia,RR,Diabetes,Glúten,Moderadamente ativo,Bronquite,2024-02-02,Hemograma,Paracetamol,Oxigenoterapia,2024-01-31,2024-02-04,2024-02-04,1,Sim,Enfermaria 1,Sim
+1966-07-22,M,053.619.472-61,Alto Alegre,RR,Doença cardíaca,Lactose,Sedentário,Bronquite,2024-06-13,Eletrocardiograma,Insulina,Oxigenoterapia,2024-06-10,2024-06-15,2024-06-15,0,Não,Enfermaria 5,Não
+1984-11-05,F,760.341.825-90,Normandia,RR,Hipertensão,Glúten,Ativo,Infecção urinária,2024-06-03,Hemograma,Ibuprofeno,Monitoramento de glicose,2024-05-30,2024-06-02,2024-06-06,1,Sim,Enfermaria 1,Não
+1981-10-19,F,013.796.854-00,Uiramutã,RR,Nenhuma,Glúten,Sedentário,Gripe,2024-01-05,Eletrocardiograma,Metformina,Coleta de sangue,2024-01-04,2024-01-08,2024-01-08,2,Não,Enfermaria 3,Sim
+1952-12-04,M,041.865.237-62,Boa Vista,RR,Diabetes,Polen,Sedentário,Covid-19,2024-09-04,Eletrocardiograma,Metformina,Monitoramento de glicose,2024-08-30,2024-09-04,2024-09-04,3,Não,Enfermaria 1,Não
+2006-05-04,M,672.195.083-95,Rorainópolis,RR,Doença cardíaca,Polen,Moderadamente ativo,Gripe,2024-04-13,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-04-08,2024-04-09,2024-04-14,3,Sim,Enfermaria 5,Não
+1985-07-31,M,457.210.389-50,Amajari,RR,Hipertensão,Polen,Sedentário,Gripe,2024-07-31,Urocultura,Insulina,Coleta de sangue,2024-07-30,2024-08-02,2024-08-02,4,Sim,Enfermaria 3,Sim
+1998-11-28,F,760.859.421-76,Bonfim,RR,Câncer,Lactose,Sedentário,Gripe,2024-07-30,Eletrocardiograma,Insulina,Coleta de sangue,2024-07-25,2024-07-26,2024-07-26,3,Sim,Enfermaria 1,Sim
+1996-09-15,M,712.358.946-73,Cantá,RR,Diabetes,Nenhuma,Sedentário,Gripe,2024-06-16,Tomografia,Salbutamol,Oxigenoterapia,2024-06-12,2024-06-14,2024-06-23,2,Sim,Enfermaria 2,Sim
+1945-02-28,M,695.401.837-66,Normandia,RR,Nenhuma,Polen,Ativo,Infecção urinária,2024-08-22,Raio-X,Paracetamol,Coleta de sangue,2024-08-17,2024-08-21,2024-08-29,3,Não,Enfermaria 2,Não
+1947-05-10,F,375.186.092-40,Uiramutã,RR,Câncer,Polen,Sedentário,Gripe,2024-06-25,Eletrocardiograma,Ibuprofeno,Monitoramento de glicose,2024-06-20,2024-06-23,2024-06-23,1,Sim,Enfermaria 3,Não
+1952-05-12,M,186.524.379-55,Alto Alegre,RR,Hipertensão,Lactose,Sedentário,Covid-19,2024-08-01,Eletrocardiograma,Salbutamol,Coleta de sangue,2024-07-28,2024-08-02,2024-08-04,1,Não,Enfermaria 5,Sim
+1990-05-21,M,578.062.319-86,Pacaraima,RR,Nenhuma,Glúten,Sedentário,Covid-19,2024-10-02,Tomografia,Salbutamol,Monitoramento de glicose,2024-09-27,2024-09-30,2024-09-30,4,Não,Enfermaria 3,Sim
+2005-06-25,M,790.165.348-57,Rorainópolis,RR,Nenhuma,Glúten,Sedentário,Bronquite,2024-10-20,Hemograma,Insulina,Coleta de sangue,2024-10-16,2024-10-17,2024-10-22,5,Não,Enfermaria 5,Não
+1959-08-20,F,475.981.023-41,Cantá,RR,Doença cardíaca,Penicilina,Ativo,Gripe,2024-03-01,Urocultura,Ibuprofeno,Oxigenoterapia,2024-02-25,2024-02-27,2024-02-28,4,Não,Enfermaria 1,Não
+1948-11-18,M,251.947.380-05,Mucajaí,RR,Asma,Penicilina,Ativo,Covid-19,2024-05-28,Eletrocardiograma,Metformina,Monitoramento de glicose,2024-05-25,2024-05-28,2024-05-29,4,Não,Enfermaria 3,Sim
+1953-11-29,M,346.175.982-19,Caroebe,RR,Asma,Polen,Sedentário,Infecção urinária,2024-10-02,Raio-X,Metformina,Oxigenoterapia,2024-09-27,2024-10-02,2024-10-05,4,Não,Enfermaria 2,Não
+1948-07-11,M,201.354.967-99,São Luiz,RR,Diabetes,Glúten,Sedentário,Covid-19,2024-02-15,Hemograma,Ibuprofeno,Coleta de sangue,2024-02-13,2024-02-15,2024-02-19,5,Não,Enfermaria 4,Sim
+1973-01-28,M,608.745.912-01,Rorainópolis,RR,Nenhuma,Penicilina,Sedentário,Bronquite,2024-04-25,Tomografia,Metformina,Oxigenoterapia,2024-04-23,2024-04-26,2024-05-01,0,Não,Enfermaria 5,Sim
+1969-03-20,M,871.294.063-13,Uiramutã,RR,Asma,Nenhuma,Ativo,Gripe,2024-10-09,Urocultura,Ibuprofeno,Oxigenoterapia,2024-10-08,2024-10-12,2024-10-12,0,Não,Enfermaria 4,Não
+1973-11-04,F,015.624.793-34,Rorainópolis,RR,Doença cardíaca,Lactose,Sedentário,Alergia,2024-03-21,Tomografia,Metformina,Coleta de sangue,2024-03-17,2024-03-18,2024-03-18,2,Não,Enfermaria 4,Não
+2000-02-08,F,908.367.425-83,Caroebe,RR,Diabetes,Lactose,Ativo,Gripe,2024-09-14,Urocultura,Metformina,Monitoramento de glicose,2024-09-12,2024-09-17,2024-09-26,0,Não,Enfermaria 1,Não
+1958-11-03,F,382.079.451-41,Caroebe,RR,Diabetes,Nenhuma,Sedentário,Covid-19,2024-08-01,Eletrocardiograma,Paracetamol,Coleta de sangue,2024-07-29,2024-07-31,2024-08-08,2,Não,Enfermaria 4,Não
+1988-11-22,F,215.346.908-24,Pacaraima,RR,Hipertensão,Penicilina,Sedentário,Infecção urinária,2024-02-27,Tomografia,Salbutamol,Oxigenoterapia,2024-02-24,2024-02-28,2024-02-28,3,Não,Enfermaria 4,Não
+1951-03-25,M,872.634.591-91,São Luiz,RR,Asma,Penicilina,Sedentário,Infecção urinária,2024-01-09,Tomografia,Paracetamol,Monitoramento de glicose,2024-01-05,2024-01-07,2024-01-12,4,Não,Enfermaria 4,Sim
+1984-12-28,F,359.741.268-82,São João da Baliza,RR,Hipertensão,Polen,Sedentário,Covid-19,2024-03-05,Urocultura,Insulina,Monitoramento de glicose,2024-02-29,2024-03-04,2024-03-04,0,Sim,Enfermaria 5,Não
+2000-02-09,F,457.206.138-62,São João da Baliza,RR,Asma,Glúten,Moderadamente ativo,Bronquite,2024-01-15,Raio-X,Insulina,Monitoramento de glicose,2024-01-10,2024-01-12,2024-01-19,2,Não,Enfermaria 4,Sim
+2002-08-22,M,502.943.618-98,Boa Vista,RR,Nenhuma,Penicilina,Ativo,Gripe,2024-08-03,Tomografia,Insulina,Monitoramento de glicose,2024-07-31,2024-08-02,2024-08-04,4,Sim,Enfermaria 1,Não
+1951-04-22,M,914.657.038-10,Bonfim,RR,Câncer,Penicilina,Sedentário,Infecção urinária,2024-07-24,Urocultura,Metformina,Coleta de sangue,2024-07-20,2024-07-24,2024-07-24,3,Não,Enfermaria 4,Não
+2004-03-06,F,159.340.286-42,Uiramutã,RR,Doença cardíaca,Lactose,Moderadamente ativo,Covid-19,2024-07-24,Raio-X,Metformina,Coleta de sangue,2024-07-23,2024-07-25,2024-07-28,4,Não,Enfermaria 1,Sim
+1989-12-26,F,760.352.419-99,Uiramutã,RR,Diabetes,Nenhuma,Sedentário,Bronquite,2024-03-01,Raio-X,Paracetamol,Monitoramento de glicose,2024-02-29,2024-03-03,2024-03-03,4,Não,Enfermaria 3,Não
+1969-09-06,F,170.934.265-06,Mucajaí,RR,Nenhuma,Lactose,Sedentário,Bronquite,2024-08-29,Raio-X,Paracetamol,Monitoramento de glicose,2024-08-25,2024-08-29,2024-09-08,3,Sim,Enfermaria 2,Não
+1951-02-23,M,562.471.930-25,Pacaraima,RR,Hipertensão,Nenhuma,Ativo,Gripe,2024-01-10,Urocultura,Insulina,Coleta de sangue,2024-01-07,2024-01-08,2024-01-08,3,Sim,Enfermaria 1,Não
+1968-10-04,M,843.706.512-71,Rorainópolis,RR,Hipertensão,Lactose,Ativo,Covid-19,2024-03-09,Raio-X,Paracetamol,Coleta de sangue,2024-03-05,2024-03-06,2024-03-06,3,Não,Enfermaria 2,Sim
+1956-11-23,M,784.305.296-83,Normandia,RR,Doença cardíaca,Nenhuma,Sedentário,Covid-19,2024-10-14,Raio-X,Paracetamol,Monitoramento de glicose,2024-10-10,2024-10-13,2024-10-13,4,Não,Enfermaria 5,Não
+1953-10-03,M,837.249.651-09,Cantá,RR,Nenhuma,Lactose,Sedentário,Covid-19,2024-05-22,Eletrocardiograma,Ibuprofeno,Coleta de sangue,2024-05-19,2024-05-20,2024-05-20,0,Não,Enfermaria 2,Não
+1975-04-04,M,635.417.089-48,Cantá,RR,Doença cardíaca,Lactose,Sedentário,Infecção urinária,2024-03-29,Raio-X,Ibuprofeno,Oxigenoterapia,2024-03-28,2024-03-30,2024-03-30,0,Sim,Enfermaria 3,Não
+1983-11-10,M,602.184.753-90,Normandia,RR,Diabetes,Polen,Moderadamente ativo,Alergia,2024-05-04,Tomografia,Paracetamol,Coleta de sangue,2024-05-01,2024-05-05,2024-05-09,5,Não,Enfermaria 4,Sim
+1949-05-20,M,509.832.476-92,Rorainópolis,RR,Nenhuma,Glúten,Ativo,Gripe,2024-05-14,Urocultura,Insulina,Oxigenoterapia,2024-05-11,2024-05-13,2024-05-13,5,Sim,Enfermaria 5,Sim
+2000-05-17,F,318.754.926-82,Normandia,RR,Câncer,Polen,Ativo,Gripe,2024-04-20,Tomografia,Salbutamol,Monitoramento de glicose,2024-04-18,2024-04-22,2024-04-22,5,Não,Enfermaria 2,Não
+1966-10-13,F,026.518.973-02,Iracema,RR,Hipertensão,Polen,Ativo,Infecção urinária,2024-05-16,Urocultura,Metformina,Monitoramento de glicose,2024-05-12,2024-05-17,2024-05-17,4,Sim,Enfermaria 5,Sim
+1995-03-28,M,401.295.873-97,Alto Alegre,RR,Asma,Nenhuma,Sedentário,Infecção urinária,2024-06-01,Eletrocardiograma,Salbutamol,Oxigenoterapia,2024-05-31,2024-06-03,2024-06-08,4,Não,Enfermaria 1,Sim
+1991-10-23,F,204.579.861-58,Mucajaí,RR,Asma,Lactose,Ativo,Alergia,2024-09-18,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-09-15,2024-09-16,2024-09-21,1,Não,Enfermaria 2,Não
+1973-06-25,M,043.526.798-10,Boa Vista,RR,Diabetes,Glúten,Ativo,Covid-19,2024-10-01,Tomografia,Salbutamol,Coleta de sangue,2024-09-30,2024-10-02,2024-10-11,5,Não,Enfermaria 3,Sim
+1944-12-23,F,501.827.963-02,Bonfim,RR,Nenhuma,Penicilina,Ativo,Bronquite,2024-10-09,Eletrocardiograma,Salbutamol,Monitoramento de glicose,2024-10-08,2024-10-11,2024-10-13,0,Sim,Enfermaria 4,Não
+1968-11-25,F,892.734.506-10,São João da Baliza,RR,Diabetes,Lactose,Ativo,Infecção urinária,2024-02-04,Urocultura,Paracetamol,Coleta de sangue,2024-02-03,2024-02-07,2024-02-17,1,Não,Enfermaria 2,Sim
+1996-06-15,F,261.490.735-99,Boa Vista,RR,Câncer,Glúten,Sedentário,Infecção urinária,2024-01-01,Hemograma,Insulina,Coleta de sangue,2023-12-31,2024-01-04,2024-01-04,5,Não,Enfermaria 5,Não
+1983-11-27,M,426.789.135-46,Pacaraima,RR,Diabetes,Penicilina,Sedentário,Gripe,2024-01-28,Hemograma,Ibuprofeno,Coleta de sangue,2024-01-23,2024-01-28,2024-01-31,5,Sim,Enfermaria 1,Sim
+1997-08-20,F,654.301.897-66,Pacaraima,RR,Hipertensão,Nenhuma,Ativo,Gripe,2024-06-03,Eletrocardiograma,Paracetamol,Oxigenoterapia,2024-05-30,2024-06-02,2024-06-02,4,Sim,Enfermaria 1,Não
+1992-11-17,M,958.640.713-66,Uiramutã,RR,Asma,Glúten,Sedentário,Gripe,2024-04-30,Tomografia,Metformina,Oxigenoterapia,2024-04-26,2024-04-30,2024-04-30,0,Não,Enfermaria 2,Não
+1965-02-01,F,319.824.607-50,Normandia,RR,Hipertensão,Nenhuma,Sedentário,Alergia,2024-02-01,Eletrocardiograma,Paracetamol,Monitoramento de glicose,2024-01-30,2024-02-02,2024-02-02,2,Não,Enfermaria 5,Não
+1957-03-04,F,743.519.086-10,Mucajaí,RR,Câncer,Nenhuma,Moderadamente ativo,Alergia,2024-06-25,Hemograma,Ibuprofeno,Coleta de sangue,2024-06-23,2024-06-25,2024-06-29,2,Sim,Enfermaria 5,Não
+1974-05-04,M,342.965.870-56,São Luiz,RR,Doença cardíaca,Penicilina,Moderadamente ativo,Bronquite,2024-10-16,Hemograma,Metformina,Coleta de sangue,2024-10-14,2024-10-15,2024-10-15,1,Sim,Enfermaria 5,Sim
+1944-12-08,M,205.481.379-60,Cantá,RR,Doença cardíaca,Polen,Sedentário,Alergia,2024-03-28,Hemograma,Paracetamol,Oxigenoterapia,2024-03-23,2024-03-24,2024-03-24,3,Sim,Enfermaria 2,Sim
+1990-08-16,F,981.563.720-77,Bonfim,RR,Nenhuma,Penicilina,Moderadamente ativo,Infecção urinária,2024-06-11,Eletrocardiograma,Ibuprofeno,Oxigenoterapia,2024-06-10,2024-06-15,2024-06-15,4,Sim,Enfermaria 2,Não
+1985-02-08,F,261.079.385-59,Caracaraí,RR,Diabetes,Polen,Moderadamente ativo,Infecção urinária,2024-03-14,Raio-X,Ibuprofeno,Coleta de sangue,2024-03-11,2024-03-13,2024-03-19,1,Sim,Enfermaria 4,Não
+2006-07-27,M,321.786.940-04,São Luiz,RR,Hipertensão,Penicilina,Ativo,Covid-19,2024-05-14,Tomografia,Insulina,Coleta de sangue,2024-05-13,2024-05-17,2024-05-17,1,Não,Enfermaria 4,Sim
+1987-06-24,F,425.189.763-37,Mucajaí,RR,Câncer,Glúten,Moderadamente ativo,Gripe,2024-10-19,Urocultura,Insulina,Monitoramento de glicose,2024-10-16,2024-10-20,2024-10-22,5,Sim,Enfermaria 1,Não
+1950-03-12,M,695.120.374-16,Bonfim,RR,Nenhuma,Polen,Sedentário,Bronquite,2024-08-13,Raio-X,Metformina,Oxigenoterapia,2024-08-08,2024-08-11,2024-08-11,0,Não,Enfermaria 1,Não
+2001-11-21,M,647.812.503-35,Pacaraima,RR,Doença cardíaca,Penicilina,Moderadamente ativo,Alergia,2024-04-05,Eletrocardiograma,Salbutamol,Oxigenoterapia,2024-04-02,2024-04-05,2024-04-05,4,Sim,Enfermaria 4,Não
+1962-02-19,M,490.362.817-50,São Luiz,RR,Nenhuma,Polen,Moderadamente ativo,Covid-19,2024-01-25,Urocultura,Ibuprofeno,Coleta de sangue,2024-01-22,2024-01-25,2024-01-25,5,Sim,Enfermaria 1,Sim
+1981-03-05,M,893.754.201-32,São Luiz,RR,Asma,Glúten,Ativo,Gripe,2024-07-18,Eletrocardiograma,Ibuprofeno,Coleta de sangue,2024-07-13,2024-07-16,2024-07-16,4,Não,Enfermaria 2,Sim
+1959-11-17,M,478.905.632-56,São Luiz,RR,Câncer,Polen,Sedentário,Alergia,2024-02-17,Tomografia,Insulina,Coleta de sangue,2024-02-14,2024-02-18,2024-02-18,0,Não,Enfermaria 4,Não
+1956-01-27,F,803.195.462-33,Rorainópolis,RR,Nenhuma,Lactose,Ativo,Covid-19,2024-01-23,Eletrocardiograma,Paracetamol,Monitoramento de glicose,2024-01-18,2024-01-19,2024-01-19,0,Sim,Enfermaria 1,Sim
+1990-06-27,M,124.675.809-11,Bonfim,RR,Hipertensão,Penicilina,Moderadamente ativo,Gripe,2024-05-15,Urocultura,Paracetamol,Oxigenoterapia,2024-05-13,2024-05-14,2024-05-14,4,Não,Enfermaria 3,Não
+1965-06-03,M,268.709.543-56,São Luiz,RR,Câncer,Penicilina,Moderadamente ativo,Gripe,2024-07-20,Hemograma,Metformina,Monitoramento de glicose,2024-07-15,2024-07-17,2024-07-25,2,Sim,Enfermaria 2,Não
+2005-02-26,F,098.267.153-95,Caroebe,RR,Diabetes,Polen,Ativo,Gripe,2024-02-04,Hemograma,Paracetamol,Coleta de sangue,2024-02-02,2024-02-07,2024-02-07,2,Sim,Enfermaria 4,Não
+1950-12-16,F,497.082.615-30,São Luiz,RR,Câncer,Glúten,Ativo,Covid-19,2024-06-03,Raio-X,Salbutamol,Oxigenoterapia,2024-05-30,2024-06-03,2024-06-08,2,Não,Enfermaria 5,Sim
+1959-07-25,M,254.019.638-15,Mucajaí,RR,Doença cardíaca,Nenhuma,Ativo,Infecção urinária,2024-02-20,Urocultura,Ibuprofeno,Monitoramento de glicose,2024-02-19,2024-02-21,2024-02-21,0,Sim,Enfermaria 4,Não
+2006-02-27,F,258.910.437-50,Rorainópolis,RR,Doença cardíaca,Penicilina,Ativo,Bronquite,2024-07-06,Raio-X,Salbutamol,Coleta de sangue,2024-07-04,2024-07-06,2024-07-06,3,Não,Enfermaria 5,Sim
+1951-06-28,F,649.710.235-34,Alto Alegre,RR,Doença cardíaca,Penicilina,Sedentário,Bronquite,2024-09-14,Eletrocardiograma,Insulina,Coleta de sangue,2024-09-09,2024-09-11,2024-09-11,5,Não,Enfermaria 4,Sim
+1969-02-17,F,845.302.679-38,Cantá,RR,Doença cardíaca,Penicilina,Moderadamente ativo,Covid-19,2024-08-26,Raio-X,Metformina,Coleta de sangue,2024-08-25,2024-08-29,2024-08-29,0,Sim,Enfermaria 1,Sim
+1944-02-22,F,608.315.497-93,Rorainópolis,RR,Hipertensão,Nenhuma,Ativo,Gripe,2024-09-11,Eletrocardiograma,Paracetamol,Coleta de sangue,2024-09-08,2024-09-13,2024-09-13,5,Não,Enfermaria 5,Sim
+1999-07-05,F,279.340.618-03,São João da Baliza,RR,Asma,Nenhuma,Sedentário,Bronquite,2024-08-11,Raio-X,Insulina,Monitoramento de glicose,2024-08-10,2024-08-13,2024-08-13,4,Não,Enfermaria 5,Não
+1972-11-06,F,045.136.827-44,Bonfim,RR,Câncer,Glúten,Moderadamente ativo,Infecção urinária,2024-02-05,Hemograma,Salbutamol,Monitoramento de glicose,2024-02-02,2024-02-06,2024-02-06,0,Não,Enfermaria 3,Sim
+1986-10-25,M,487.360.529-65,Pacaraima,RR,Câncer,Lactose,Sedentário,Gripe,2024-08-25,Raio-X,Salbutamol,Monitoramento de glicose,2024-08-22,2024-08-27,2024-09-02,3,Não,Enfermaria 5,Não
+2005-09-17,M,407.812.569-76,Amajari,RR,Hipertensão,Lactose,Moderadamente ativo,Alergia,2024-03-05,Tomografia,Metformina,Monitoramento de glicose,2024-02-29,2024-03-05,2024-03-05,3,Não,Enfermaria 1,Não
+1971-01-22,F,217.845.390-23,Caracaraí,RR,Diabetes,Lactose,Sedentário,Bronquite,2024-03-10,Eletrocardiograma,Ibuprofeno,Coleta de sangue,2024-03-09,2024-03-10,2024-03-20,1,Sim,Enfermaria 2,Não
+1973-08-18,M,031.579.248-50,Amajari,RR,Asma,Nenhuma,Sedentário,Infecção urinária,2024-03-28,Eletrocardiograma,Insulina,Monitoramento de glicose,2024-03-27,2024-03-29,2024-03-30,1,Sim,Enfermaria 2,Não
+1993-08-03,M,198.425.036-15,Bonfim,RR,Câncer,Lactose,Sedentário,Alergia,2024-02-19,Raio-X,Insulina,Oxigenoterapia,2024-02-14,2024-02-18,2024-02-18,1,Não,Enfermaria 5,Não
+1969-09-01,M,829.645.701-67,Pacaraima,RR,Doença cardíaca,Penicilina,Ativo,Alergia,2024-07-11,Hemograma,Metformina,Oxigenoterapia,2024-07-07,2024-07-10,2024-07-10,5,Sim,Enfermaria 4,Não
+1965-02-19,M,506.729.318-77,Normandia,RR,Nenhuma,Polen,Moderadamente ativo,Gripe,2024-07-16,Urocultura,Ibuprofeno,Coleta de sangue,2024-07-12,2024-07-16,2024-07-26,0,Não,Enfermaria 2,Sim
+1955-02-25,F,206.851.397-86,São Luiz,RR,Asma,Glúten,Ativo,Gripe,2024-02-13,Urocultura,Metformina,Coleta de sangue,2024-02-12,2024-02-15,2024-02-20,1,Não,Enfermaria 1,Sim
+1983-10-31,M,843.172.560-53,Amajari,RR,Câncer,Glúten,Ativo,Covid-19,2024-03-11,Urocultura,Insulina,Coleta de sangue,2024-03-08,2024-03-09,2024-03-14,0,Não,Enfermaria 5,Não
+1947-09-11,F,458.067.312-35,São João da Baliza,RR,Doença cardíaca,Glúten,Ativo,Bronquite,2024-04-29,Urocultura,Salbutamol,Monitoramento de glicose,2024-04-26,2024-04-28,2024-04-28,1,Sim,Enfermaria 3,Não
+1963-03-04,M,135.982.470-79,São Luiz,RR,Nenhuma,Glúten,Ativo,Alergia,2024-09-16,Urocultura,Insulina,Oxigenoterapia,2024-09-14,2024-09-17,2024-09-24,4,Não,Enfermaria 3,Sim
+1999-04-08,M,983.615.402-70,Rorainópolis,RR,Hipertensão,Penicilina,Ativo,Gripe,2024-04-15,Hemograma,Paracetamol,Monitoramento de glicose,2024-04-11,2024-04-15,2024-04-15,5,Sim,Enfermaria 2,Não
+1986-03-13,M,362.497.108-50,Caracaraí,RR,Câncer,Polen,Ativo,Alergia,2024-09-03,Eletrocardiograma,Insulina,Monitoramento de glicose,2024-08-29,2024-09-03,2024-09-03,0,Sim,Enfermaria 4,Não
+1955-03-05,F,052.379.468-10,Bonfim,RR,Nenhuma,Lactose,Moderadamente ativo,Gripe,2024-04-22,Raio-X,Paracetamol,Monitoramento de glicose,2024-04-21,2024-04-23,2024-04-26,2,Sim,Enfermaria 1,Sim
+1997-06-24,M,819.725.064-20,Cantá,RR,Câncer,Nenhuma,Ativo,Gripe,2024-06-06,Tomografia,Insulina,Oxigenoterapia,2024-06-01,2024-06-06,2024-06-06,5,Sim,Enfermaria 5,Sim
+1980-04-14,M,248.567.019-67,Mucajaí,RR,Doença cardíaca,Nenhuma,Ativo,Covid-19,2024-08-07,Tomografia,Ibuprofeno,Coleta de sangue,2024-08-04,2024-08-08,2024-08-11,5,Não,Enfermaria 1,Sim
+1982-06-08,M,435.760.291-25,Bonfim,RR,Hipertensão,Penicilina,Moderadamente ativo,Covid-19,2024-08-15,Raio-X,Paracetamol,Coleta de sangue,2024-08-13,2024-08-17,2024-08-17,3,Não,Enfermaria 1,Sim
+1998-11-09,M,290.746.381-04,Caracaraí,RR,Diabetes,Nenhuma,Sedentário,Covid-19,2024-03-12,Urocultura,Ibuprofeno,Coleta de sangue,2024-03-11,2024-03-15,2024-03-15,3,Não,Enfermaria 4,Não
+1975-08-01,M,792.804.631-87,Caroebe,RR,Hipertensão,Nenhuma,Ativo,Gripe,2024-01-01,Urocultura,Metformina,Monitoramento de glicose,2023-12-27,2023-12-29,2023-12-29,4,Não,Enfermaria 3,Sim
+1998-08-31,F,340.587.912-41,Alto Alegre,RR,Câncer,Nenhuma,Ativo,Bronquite,2024-05-31,Tomografia,Insulina,Oxigenoterapia,2024-05-30,2024-05-31,2024-06-03,5,Não,Enfermaria 4,Sim
+1983-10-11,F,603.894.251-33,Bonfim,RR,Câncer,Nenhuma,Moderadamente ativo,Alergia,2024-07-16,Urocultura,Ibuprofeno,Coleta de sangue,2024-07-13,2024-07-18,2024-07-18,0,Sim,Enfermaria 4,Sim
+1990-08-14,M,087.149.562-76,Boa Vista,RR,Nenhuma,Nenhuma,Ativo,Bronquite,2024-02-26,Urocultura,Metformina,Coleta de sangue,2024-02-25,2024-03-01,2024-03-03,3,Sim,Enfermaria 1,Sim
+1963-05-17,M,671.249.358-73,São João da Baliza,RR,Nenhuma,Nenhuma,Sedentário,Alergia,2024-04-20,Eletrocardiograma,Insulina,Monitoramento de glicose,2024-04-16,2024-04-21,2024-04-21,2,Sim,Enfermaria 4,Sim
+1986-07-08,M,153.892.076-02,Rorainópolis,RR,Doença cardíaca,Penicilina,Moderadamente ativo,Infecção urinária,2024-01-30,Tomografia,Salbutamol,Monitoramento de glicose,2024-01-29,2024-01-30,2024-01-30,3,Não,Enfermaria 2,Não
+1960-09-28,F,986.510.742-20,Bonfim,RR,Câncer,Lactose,Ativo,Alergia,2024-08-13,Eletrocardiograma,Salbutamol,Oxigenoterapia,2024-08-12,2024-08-17,2024-08-24,4,Não,Enfermaria 3,Não
+1977-05-01,F,741.538.062-26,Boa Vista,RR,Hipertensão,Lactose,Ativo,Gripe,2024-10-11,Tomografia,Ibuprofeno,Oxigenoterapia,2024-10-08,2024-10-09,2024-10-16,5,Não,Enfermaria 5,Não
+1952-08-22,F,209.158.463-06,Uiramutã,RR,Doença cardíaca,Penicilina,Sedentário,Bronquite,2024-09-30,Raio-X,Insulina,Oxigenoterapia,2024-09-28,2024-09-30,2024-09-30,5,Não,Enfermaria 1,Não
+1961-04-17,F,579.283.604-38,Mucajaí,RR,Nenhuma,Penicilina,Ativo,Infecção urinária,2024-06-28,Urocultura,Salbutamol,Coleta de sangue,2024-06-27,2024-07-02,2024-07-03,5,Não,Enfermaria 5,Não
+1996-07-13,M,072.548.391-14,Iracema,RR,Doença cardíaca,Lactose,Moderadamente ativo,Covid-19,2024-07-22,Eletrocardiograma,Insulina,Oxigenoterapia,2024-07-20,2024-07-25,2024-08-02,1,Não,Enfermaria 4,Sim
+1975-03-17,F,725.106.348-44,Boa Vista,RR,Câncer,Nenhuma,Sedentário,Bronquite,2024-01-08,Raio-X,Salbutamol,Oxigenoterapia,2024-01-06,2024-01-08,2024-01-16,1,Não,Enfermaria 4,Sim
+1993-01-02,M,372.196.458-64,Uiramutã,RR,Asma,Polen,Sedentário,Covid-19,2024-07-05,Hemograma,Paracetamol,Coleta de sangue,2024-07-04,2024-07-08,2024-07-08,2,Sim,Enfermaria 5,Não
+1992-07-02,F,908.536.274-10,Alto Alegre,RR,Diabetes,Penicilina,Ativo,Alergia,2024-01-14,Raio-X,Salbutamol,Oxigenoterapia,2024-01-09,2024-01-14,2024-01-14,0,Sim,Enfermaria 2,Sim
+1946-12-11,M,540.237.981-50,Pacaraima,RR,Diabetes,Penicilina,Ativo,Covid-19,2024-03-11,Hemograma,Salbutamol,Monitoramento de glicose,2024-03-06,2024-03-10,2024-03-20,5,Não,Enfermaria 4,Não
+1976-08-21,M,190.375.628-68,Amajari,RR,Asma,Lactose,Ativo,Infecção urinária,2024-03-23,Raio-X,Salbutamol,Oxigenoterapia,2024-03-21,2024-03-24,2024-04-03,2,Não,Enfermaria 3,Sim
+1988-01-22,F,401.236.957-16,Normandia,RR,Nenhuma,Penicilina,Moderadamente ativo,Alergia,2024-02-13,Raio-X,Ibuprofeno,Coleta de sangue,2024-02-08,2024-02-10,2024-02-10,1,Não,Enfermaria 1,Não
+1948-03-15,M,957.026.843-38,São João da Baliza,RR,Hipertensão,Lactose,Ativo,Alergia,2024-01-15,Hemograma,Metformina,Oxigenoterapia,2024-01-14,2024-01-18,2024-01-18,2,Não,Enfermaria 5,Sim
+1974-02-21,F,156.709.438-48,Uiramutã,RR,Diabetes,Nenhuma,Ativo,Bronquite,2024-05-07,Eletrocardiograma,Metformina,Oxigenoterapia,2024-05-06,2024-05-11,2024-05-15,1,Sim,Enfermaria 3,Não
+1947-10-22,F,186.590.243-89,Caracaraí,RR,Asma,Glúten,Sedentário,Alergia,2024-09-05,Urocultura,Insulina,Monitoramento de glicose,2024-09-02,2024-09-05,2024-09-05,0,Sim,Enfermaria 3,Sim
+1948-06-20,M,274.089.163-69,São João da Baliza,RR,Nenhuma,Lactose,Ativo,Gripe,2024-06-15,Eletrocardiograma,Salbutamol,Oxigenoterapia,2024-06-10,2024-06-15,2024-06-25,1,Sim,Enfermaria 5,Não
+1987-01-19,F,863.024.519-06,São João da Baliza,RR,Hipertensão,Polen,Moderadamente ativo,Covid-19,2024-05-28,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-05-26,2024-05-28,2024-06-05,3,Sim,Enfermaria 2,Não
+1989-03-07,F,674.823.015-26,São João da Baliza,RR,Hipertensão,Polen,Moderadamente ativo,Covid-19,2024-08-15,Hemograma,Insulina,Oxigenoterapia,2024-08-13,2024-08-15,2024-08-15,0,Sim,Enfermaria 2,Sim
+2002-12-16,F,785.634.102-53,Mucajaí,RR,Hipertensão,Lactose,Ativo,Alergia,2024-08-02,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-07-29,2024-08-01,2024-08-02,2,Não,Enfermaria 5,Sim
+1974-11-02,F,069.475.318-10,Alto Alegre,RR,Nenhuma,Polen,Moderadamente ativo,Alergia,2024-09-09,Urocultura,Ibuprofeno,Oxigenoterapia,2024-09-04,2024-09-08,2024-09-13,3,Sim,Enfermaria 2,Sim
+1954-06-25,M,307.495.128-14,Boa Vista,RR,Câncer,Polen,Moderadamente ativo,Bronquite,2024-05-15,Tomografia,Metformina,Coleta de sangue,2024-05-12,2024-05-13,2024-05-17,5,Sim,Enfermaria 4,Sim
+1954-08-31,M,690.183.475-66,Bonfim,RR,Hipertensão,Lactose,Moderadamente ativo,Alergia,2024-08-21,Raio-X,Salbutamol,Oxigenoterapia,2024-08-17,2024-08-18,2024-08-18,3,Sim,Enfermaria 2,Não
+1948-03-28,F,875.069.421-94,Normandia,RR,Diabetes,Polen,Ativo,Infecção urinária,2024-06-17,Eletrocardiograma,Paracetamol,Coleta de sangue,2024-06-13,2024-06-16,2024-06-25,1,Sim,Enfermaria 1,Não
+2001-04-08,M,392.175.408-97,Cantá,RR,Nenhuma,Penicilina,Sedentário,Covid-19,2024-02-17,Urocultura,Metformina,Oxigenoterapia,2024-02-16,2024-02-17,2024-02-17,0,Sim,Enfermaria 4,Não
+1985-01-23,F,670.539.814-01,São João da Baliza,RR,Hipertensão,Penicilina,Sedentário,Covid-19,2024-08-15,Eletrocardiograma,Metformina,Monitoramento de glicose,2024-08-14,2024-08-15,2024-08-24,1,Não,Enfermaria 2,Sim
+1988-06-22,M,192.805.376-95,Caracaraí,RR,Diabetes,Nenhuma,Moderadamente ativo,Covid-19,2024-07-26,Raio-X,Insulina,Oxigenoterapia,2024-07-22,2024-07-27,2024-07-27,3,Sim,Enfermaria 1,Sim
+1995-02-12,F,514.023.789-04,Mucajaí,RR,Nenhuma,Nenhuma,Sedentário,Alergia,2024-08-05,Tomografia,Paracetamol,Coleta de sangue,2024-08-04,2024-08-05,2024-08-06,0,Sim,Enfermaria 3,Não
+1946-10-24,F,726.085.314-07,Cantá,RR,Nenhuma,Nenhuma,Moderadamente ativo,Gripe,2024-07-23,Tomografia,Salbutamol,Oxigenoterapia,2024-07-19,2024-07-22,2024-07-25,2,Não,Enfermaria 5,Sim
+1953-01-31,M,705.938.216-02,Amajari,RR,Nenhuma,Glúten,Ativo,Alergia,2024-04-04,Urocultura,Salbutamol,Oxigenoterapia,2024-04-02,2024-04-03,2024-04-03,2,Não,Enfermaria 2,Não
+1997-07-25,M,276.983.541-64,Amajari,RR,Asma,Polen,Sedentário,Alergia,2024-05-30,Tomografia,Ibuprofeno,Oxigenoterapia,2024-05-28,2024-05-30,2024-05-30,1,Não,Enfermaria 5,Sim
+1993-07-08,F,215.438.097-23,Amajari,RR,Asma,Polen,Sedentário,Gripe,2024-04-29,Hemograma,Insulina,Coleta de sangue,2024-04-25,2024-04-30,2024-05-05,2,Sim,Enfermaria 3,Não
+1992-01-25,M,342.951.086-42,Cantá,RR,Câncer,Glúten,Ativo,Infecção urinária,2024-01-08,Urocultura,Salbutamol,Oxigenoterapia,2024-01-04,2024-01-08,2024-01-16,0,Sim,Enfermaria 3,Não
+1965-11-04,M,954.213.687-00,Boa Vista,RR,Hipertensão,Polen,Ativo,Alergia,2024-08-23,Hemograma,Paracetamol,Monitoramento de glicose,2024-08-21,2024-08-26,2024-09-03,1,Não,Enfermaria 3,Não
+1951-02-03,M,451.932.860-89,Mucajaí,RR,Hipertensão,Penicilina,Ativo,Bronquite,2024-04-11,Eletrocardiograma,Ibuprofeno,Oxigenoterapia,2024-04-07,2024-04-11,2024-04-11,5,Não,Enfermaria 3,Sim
+1949-10-26,M,273.546.891-73,Boa Vista,RR,Asma,Penicilina,Ativo,Covid-19,2024-05-09,Urocultura,Paracetamol,Oxigenoterapia,2024-05-05,2024-05-06,2024-05-06,0,Não,Enfermaria 3,Não
+1956-09-23,F,018.743.526-07,Pacaraima,RR,Câncer,Lactose,Moderadamente ativo,Covid-19,2024-04-10,Raio-X,Ibuprofeno,Monitoramento de glicose,2024-04-07,2024-04-08,2024-04-08,5,Sim,Enfermaria 1,Não
+1980-02-08,M,579.308.146-10,Mucajaí,RR,Câncer,Glúten,Moderadamente ativo,Infecção urinária,2024-01-10,Raio-X,Ibuprofeno,Oxigenoterapia,2024-01-05,2024-01-07,2024-01-07,1,Sim,Enfermaria 3,Sim
+1962-11-09,F,936.458.721-91,Bonfim,RR,Nenhuma,Lactose,Ativo,Infecção urinária,2024-08-31,Hemograma,Ibuprofeno,Oxigenoterapia,2024-08-27,2024-08-30,2024-08-30,2,Sim,Enfermaria 5,Não
+1953-08-29,F,604.982.371-50,Pacaraima,RR,Doença cardíaca,Glúten,Sedentário,Infecção urinária,2024-06-08,Eletrocardiograma,Metformina,Coleta de sangue,2024-06-04,2024-06-06,2024-06-13,1,Sim,Enfermaria 4,Sim
+1965-08-03,F,106.258.439-24,Rorainópolis,RR,Câncer,Penicilina,Moderadamente ativo,Bronquite,2024-04-19,Tomografia,Insulina,Monitoramento de glicose,2024-04-18,2024-04-23,2024-04-23,1,Não,Enfermaria 5,Sim
+1989-06-29,F,816.579.024-20,São Luiz,RR,Doença cardíaca,Nenhuma,Sedentário,Gripe,2024-04-25,Urocultura,Metformina,Coleta de sangue,2024-04-20,2024-04-22,2024-04-22,2,Não,Enfermaria 2,Sim
+1945-10-07,M,138.794.625-00,Caracaraí,RR,Nenhuma,Glúten,Sedentário,Bronquite,2024-05-16,Tomografia,Metformina,Coleta de sangue,2024-05-12,2024-05-15,2024-05-15,3,Sim,Enfermaria 2,Não
+1981-04-04,M,186.345.729-19,São João da Baliza,RR,Doença cardíaca,Nenhuma,Moderadamente ativo,Gripe,2024-06-01,Raio-X,Insulina,Coleta de sangue,2024-05-29,2024-05-31,2024-05-31,4,Não,Enfermaria 1,Sim
+1994-03-07,M,036.781.924-40,Caroebe,RR,Hipertensão,Glúten,Moderadamente ativo,Covid-19,2024-01-04,Raio-X,Insulina,Monitoramento de glicose,2024-01-02,2024-01-05,2024-01-12,0,Sim,Enfermaria 2,Sim
+1953-10-26,F,459.082.637-29,São Luiz,RR,Câncer,Nenhuma,Sedentário,Bronquite,2024-05-01,Raio-X,Metformina,Monitoramento de glicose,2024-04-26,2024-04-29,2024-04-30,3,Sim,Enfermaria 3,Não
+1945-12-09,M,326.705.814-71,Rorainópolis,RR,Doença cardíaca,Nenhuma,Moderadamente ativo,Infecção urinária,2024-04-11,Raio-X,Salbutamol,Coleta de sangue,2024-04-10,2024-04-14,2024-04-14,4,Sim,Enfermaria 4,Não
+2006-06-22,M,683.721.459-46,Uiramutã,RR,Doença cardíaca,Lactose,Sedentário,Covid-19,2024-08-12,Raio-X,Metformina,Monitoramento de glicose,2024-08-09,2024-08-13,2024-08-17,1,Não,Enfermaria 2,Não
+1945-10-28,F,701.695.324-61,São Luiz,RR,Nenhuma,Lactose,Ativo,Infecção urinária,2024-09-19,Raio-X,Paracetamol,Monitoramento de glicose,2024-09-14,2024-09-17,2024-09-18,1,Não,Enfermaria 5,Não
+1972-07-28,M,918.046.275-85,Alto Alegre,RR,Câncer,Polen,Ativo,Alergia,2024-02-08,Hemograma,Insulina,Monitoramento de glicose,2024-02-04,2024-02-08,2024-02-08,4,Sim,Enfermaria 4,Não
+1992-07-12,M,362.478.051-44,Cantá,RR,Hipertensão,Lactose,Sedentário,Infecção urinária,2024-05-04,Tomografia,Ibuprofeno,Oxigenoterapia,2024-04-29,2024-04-30,2024-05-03,4,Não,Enfermaria 5,Não
+2002-01-30,M,276.834.951-82,Iracema,RR,Asma,Glúten,Sedentário,Covid-19,2024-08-15,Urocultura,Salbutamol,Oxigenoterapia,2024-08-13,2024-08-15,2024-08-24,3,Não,Enfermaria 5,Não
+1952-03-22,F,730.168.542-44,São João da Baliza,RR,Diabetes,Nenhuma,Ativo,Alergia,2024-02-21,Tomografia,Paracetamol,Coleta de sangue,2024-02-19,2024-02-21,2024-02-27,2,Não,Enfermaria 5,Não
+1944-10-23,M,813.529.047-05,São Luiz,RR,Hipertensão,Glúten,Ativo,Infecção urinária,2024-09-14,Hemograma,Paracetamol,Oxigenoterapia,2024-09-10,2024-09-12,2024-09-12,0,Sim,Enfermaria 5,Não
+1990-03-08,F,836.059.142-33,Iracema,RR,Câncer,Polen,Moderadamente ativo,Infecção urinária,2024-05-27,Hemograma,Paracetamol,Coleta de sangue,2024-05-24,2024-05-26,2024-05-26,0,Sim,Enfermaria 5,Não
