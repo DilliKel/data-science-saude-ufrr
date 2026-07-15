@@ -30,12 +30,12 @@ O programa teve carga horária total de **236 horas**, distribuídas em 9 módul
 | DS-006 | Análise Espacial de Dados para a Vigilância em Saúde | 16h | [DS-006-analise-espacial](./DS-006-analise-espacial) |
 | DS-007 | Construção de Dashboards I | 18h | [DS-007-dashboards-1](./DS-007-dashboards-1) |
 | DS-008 | Construção de Dashboards II | 18h | [DS-008-dashboards-2](./DS-008-dashboards-2) |
-| DS-009 | Hands On — Implementação de Projetos | 96h | [DS-009-hands-on](./DS-009-hands-on) |
+| DS-009 | Hands On — Implementação de Projetos | 96h | [DS-009-hands-on](https://github.com/DilliKel/imc-longterm-forecast) |
 | **Total** | | **236h** | |
 
 ## Projeto Final (DS-009)
 
-O projeto desenvolvido no Hands On está disponível em repositório próprio: [imc-longterm-forecast](link a preencher)
+O projeto desenvolvido no Hands On está disponível em repositório próprio: [imc-longterm-forecast](https://github.com/DilliKel/imc-longterm-forecast)
 
 ## Stack
 
