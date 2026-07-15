@@ -17,6 +17,7 @@ O programa teve carga horária total de **236 horas**, distribuídas em 9 módul
 | 📅 Período | 2024–2025 |
 | ⏱️ Carga horária | 236 horas |
 | 👤 Aluno | Kelvin Araújo Ferreira |
+|👤 Autores | Kelvin Araújo Ferreira · Fernando Souza Rodrigues |
 
 ## Módulos
 
